@@ -17,4 +17,4 @@ Estou começando a estudar software a alguns meses e pretendo aprender tudo oque
 ![Docker](https://img.shields.io/badge/docker-%2300A8FF.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Contato
-[LinkedIn]([https://x.com/_nicc0llas_/](https://www.linkedin.com/in/nrhilarior/))
+[LinkedIn](https://www.linkedin.com/in/nrhilarior/)
