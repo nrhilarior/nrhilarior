@@ -1,16 +1,14 @@
-## Hi there 👋
+# Ruan Nicollas
+Cristão, Começando a aprender sobre engenheiro de software.
 
-<!--
-**nrhilarior/nrhilarior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Estou começando a estudar software a alguns meses e pretendo aprender tudo oque for preciso sobre as linguagens de programação
 
-Here are some ideas to get you started:
+## Desenvolvimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens
+
+[![JavaSript](https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://www.java.com) [![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org) [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+## Contato
+[X](https://x.com/_nicc0llas_/)
